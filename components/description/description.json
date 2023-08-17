@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_description_descriptions",
+  "info": {
+    "name": "Description",
+    "icon": "address-card"
+  },
+  "options": {},
+  "attributes": {
+    "description": {
+      "type": "richtext"
+    }
+  }
+}
